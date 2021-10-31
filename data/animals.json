@@ -120,23 +120,13 @@
     },
     {
       "name": "Kessity",
-      "species": "Kangaroo",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "zany",
-        "loving"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "Jimmothy",
       "species": "Chupakabra",
       "diet": "carnivore",
       "personalityTraits": [
         "hungry",
         "anxious"
       ],
-      "id": "13"
+      "id": "12"
     }
   ]
 }
